@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There
+
+French student here! I'm into Elixir and Phoenix, a bit of Devops and I really want to work with AI or Data Science projects :)
 
 <!--
 **AdrianPaulCarrieres/AdrianPaulCarrieres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
