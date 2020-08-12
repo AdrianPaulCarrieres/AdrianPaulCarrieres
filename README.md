@@ -22,4 +22,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/AdrianCarrieres
-[2]: https://www.linkedin.com/in/adrian-paul-carri%C3%A8res-7b34b2187/
+[2]: https://www.linkedin.com/in/adrian-paul-carrières-7b34b2187/
