@@ -23,3 +23,7 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/AdrianCarrieres
 [2]: https://www.linkedin.com/in/adrian-paul-carrières-7b34b2187/
+
+## Profile Picture
+
+Profile picture by [Christophe Marois](https://www.artstation.com/qaqelol) :)
