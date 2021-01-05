@@ -1,6 +1,6 @@
 # Hello There
 
-French student here! I'm into Elixir and Phoenix, a bit of Devops and I really want to work with AI or data intensive projects :)
+French student here! I'm into Elixir and Phoenix, a bit of Devops and I really want to work with data intensive projects (and maybe AI ?) :)
 
 ## Some stats because we all love stats
 
