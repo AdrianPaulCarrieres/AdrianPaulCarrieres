@@ -9,8 +9,10 @@ French student here! I'm into Elixir and Phoenix and I really want to work with 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianpaulcarrieres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Nomenclature
-For now most of my projects come from schools, therefore each repo's name follows this nomenclature for easy reading and grading :
+For now most of my projects come from schools, therefore each repo's name follows this nomenclature* for easy reading and grading :
 school_nameYear-project_name-AdrianPaulCarrieres
+
+* but not Efrei related repositories (it will come when I graduate)
 
 Personal projects will come, too :)
 
