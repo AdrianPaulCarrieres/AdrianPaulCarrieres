@@ -10,8 +10,6 @@ French student here! I like Elixir and Phoenix and I really want to work with da
 
 ## Some stats because we all love stats
 
-[![AdrianPaulCarrieres's github stats](https://github-readme-stats.vercel.app/api?username=adrianpaulcarrieres&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianpaulcarrieres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
