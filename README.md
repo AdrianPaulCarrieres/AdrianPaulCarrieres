@@ -8,6 +8,12 @@ French student here! I like Elixir and Phoenix and I really want to work with da
 - My porfolio
 - An article about Phoenix 1.6 aimed at beginners
 
+## In the future...
+
+- A bit of cybersecurity would be nice
+- Some Rust (or Go? or both?)
+- Machine learning maybe
+
 ## Some stats because we all love stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianpaulcarrieres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
