@@ -4,7 +4,7 @@ French student here! I like Elixir and Phoenix and I really want to work with da
 
 ## Working on...
 
-- A discord bot for my classmates and I
+- A discord bot for my classmates
 - My porfolio
 - An article about Phoenix 1.6 aimed at beginners
 
