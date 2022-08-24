@@ -12,7 +12,7 @@ French student here! I like Elixir and Phoenix and I really want to work with da
 
 - A bit of cybersecurity would be nice
 - Some Rust
-- Machine learning maybe
+- Machine learning
 
 ## Some stats because we all love stats
 
