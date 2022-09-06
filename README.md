@@ -5,14 +5,15 @@ French student here! I like Elixir and Phoenix and I really want to work with da
 ## Working on...
 
 - A discord bot for my classmates
+- Kubernetes
 - My porfolio
-- An article about Phoenix 1.6 aimed at beginners
 
 ## In the future...
 
 - A bit of cybersecurity would be nice
 - Some Rust
 - Machine learning
+- An article about Phoenix 1.6 aimed at beginners
 
 ## Some stats because we all love stats
 
