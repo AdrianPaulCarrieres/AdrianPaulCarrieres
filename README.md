@@ -6,8 +6,7 @@
 - Learning Rust
 
 ## In the future...
-- A bit of cybersecurity would be nice
-- Machine learning
+- More advanced cybersecurity principles
 - An article about Phoenix aimed at beginners
 
 ## Contact
