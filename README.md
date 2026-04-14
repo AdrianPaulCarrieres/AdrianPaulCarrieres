@@ -2,7 +2,7 @@
 
 ## Working on...
 
-- Learning Kubernetes and AWS
+- Finshing learning Kubernetes, AWS and Terraform
 - Learning Rust
 
 ## In the future...
