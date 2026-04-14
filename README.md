@@ -1,22 +1,14 @@
 # Hello There
 
-French student here! I like Elixir and Phoenix and I really want to work with data intensive projects (and maybe AI ?) :)
-
 ## Working on...
 
-- Learning Kubernetes
-- My porfolio
+- Learning Kubernetes and AWS
+- Learning Rust
 
 ## In the future...
-
 - A bit of cybersecurity would be nice
-- Some Rust
 - Machine learning
-- An article about Phoenix ~~1.6~~ 1.7 aimed at beginners
-
-## Some stats because we all love stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianpaulcarrieres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- An article about Phoenix aimed at beginners
 
 ## Contact
 
